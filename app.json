@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "rn-complete-guide",
+    "name": "My Tasks",
     "slug": "rn-complete-guide",
+    "sdkVersion": "41.0.0",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
